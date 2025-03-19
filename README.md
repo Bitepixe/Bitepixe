@@ -16,7 +16,7 @@
 ### 🛠 Tecnologías & Herramientas que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,bootstrap,tailwind,figma,illustrator,photoshop,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,bootstrap,tailwind,figma,illustrator,photoshop,git,github,vscode" />
 </p>
 
 ---
