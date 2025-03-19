@@ -33,13 +33,16 @@
 
 ### 📌 Proyectos destacados *(en desarrollo)*
 
-- **🎮 BITEPIXE** – Portal web con análisis de videojuegos, comunidad interactiva, rankings y más.
-- **💄 Portfolio Estilista - [Xavi Valverde]** – Portfolio profesional para un maquillador/a especializado/a en cine, televisión y eventos. Web personalizada con enfoque visual y adaptable.
-- **🌐 Portfolio Personal – Alberto Jiménez** – Proyecto visual dinámico y modular como carta de presentación personal. Diseño UI/UX cuidado, enfoque minimalista y tecnologías modernas. *(En desarrollo)*
+### 📌 Proyectos destacados
 
-- *(Y más ideas en camino...)*
+| Proyecto | Descripción |
+|---------|-------------|
+| 🎮 BITEPIXE Portal | Web de análisis de videojuegos, comunidad interactiva y rankings. |
+| 💄 Portfolio Estilista – Xavi Valverde | Portfolio profesional para maquillador especializado en cine, televisión y eventos. Web personalizada con enfoque visual y adaptable. |
+| 🌐 Portfolio Personal – Alberto Jiménez | Proyecto visual dinámico y modular como carta de presentación personal. Diseño UI/UX cuidado, enfoque minimalista y tecnologías modernas. *(En desarrollo)* |
 
----
+<p><i>...Y más ideas en camino</i> 🚧</p>
+
 
 ### 📫 ¿Conectamos?
 - ✉ bertocover@gmail.com
@@ -48,12 +51,10 @@
 
 ---
 
-### ⚡ Stats (opcional)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitepixe&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitepixe&layout=compact&langs_count=8" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Creative+UI%2FUX+Designer;Code+meets+Art&center=true&width=380&height=45" />
 </p>
+
 
 ---
 
