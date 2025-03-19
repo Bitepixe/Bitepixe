@@ -1,6 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Creative+UI%2FUX+Designer;Code+%2B+Design+%3D+Magic&center=true&width=380&height=45" />
-</h1>
+<h1 align="center">✨ Hola, soy Alberto Jiménez ✨</h1>
+<h3 align="center">💻 Frontend Developer · 🎨 UI/UX Designer · 🚀 Creative Thinker</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Transformo+ideas+en+experiencias+visuales.;Code+meets+Design.;Frontend+con+pasión+por+la+creatividad.&center=true&width=480&height=45" />
+</p>
 
 ---
 
