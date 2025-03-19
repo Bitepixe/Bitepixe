@@ -34,13 +34,16 @@
 
 ### 📌 Proyectos destacados
 
-| Proyecto | Descripción |
-|---------|-------------|
-| 🎮 BITEPIXE Portal | Web de análisis de videojuegos, comunidad interactiva y rankings. |
-| 💄 Portfolio Estilista – Xavi Valverde | Portfolio profesional para maquillador especializado en cine, televisión y eventos. Web personalizada con enfoque visual y adaptable. |
-| 🌐 Portfolio Personal – Alberto Jiménez | Proyecto visual dinámico y modular como carta de presentación personal. Diseño UI/UX cuidado, enfoque minimalista y tecnologías modernas. *(En desarrollo)* |
+### 📌 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| 🎮 BITEPIXE Portal | Web de análisis de videojuegos, comunidad interactiva y rankings. | HTML, CSS, PHP, MySQL |
+| 💄 Portfolio Estilista – Xavi Valverde | Portfolio profesional para maquillador especializado en cine, televisión y eventos. Web personalizada con enfoque visual y adaptable. | Figma, UI/UX, HTML, CSS, JavaScript, React, Bootstrap |
+| 🌐 Portfolio Personal – Alberto Jiménez | Proyecto visual dinámico y modular como carta de presentación personal. Diseño UI/UX cuidado, enfoque minimalista y tecnologías modernas. *(En desarrollo)* | Figma, UI/UX, HTML, CSS, JavaScript, React, Tailwind |
 
 <p><i>...Y más ideas en camino</i> 🚧</p>
+
 
 
 ### 📫 ¿Conectamos?
