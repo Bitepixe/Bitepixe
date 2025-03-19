@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-✨ Gracias por visitar mi perfil. ¡Sigo construyendo cosas con pasión y diseño!
+Gracias por tu visita. Sigo construyendo cosas con propósito, diseño y código bien pensado.
 </p>
