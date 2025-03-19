@@ -45,7 +45,7 @@
 
 ### 📫 ¿Conectamos?
 - ✉ bertocover@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario) *(cuando lo publiques)*
+- 💼 https://www.linkedin.com/in/alberto-jim%C3%A9nez-s%C3%A1nchez-5ab368211/
 - 🌍 Portfolio próximamente 
 
 ---
