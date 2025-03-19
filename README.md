@@ -1,6 +1,6 @@
-<h1 align="center">👋 ¡Hola! Soy Alberto</h1>
-
-<p align="center"><b>💻 Desarrollador Front End · 🎨 Diseñador Creativo UI/UX · ✍️ Ilustrador digital</b></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Creative+UI%2FUX+Designer;Code+%2B+Design+%3D+Magic&center=true&width=380&height=45" />
+</h1>
 
 ---
 
