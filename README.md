@@ -32,9 +32,6 @@
 
 ### 📌 Proyectos destacados *(en desarrollo)*
 
-### 📌 Proyectos destacados
-
-### 📌 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
